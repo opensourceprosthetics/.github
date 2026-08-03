@@ -4,4 +4,7 @@ We provide free or ultra-low-cost, functional upper-limb assistive devices to un
 
 Visit our website at https://opensourceprosthetics.org/ alternativly, have a look at our Open Collective page: https://opencollective.com/open-source-prosthetics
 
+<div align="center">
+`<img alt="smp1" src="osp-socialmedia-p1.png">
+</div>
 ---
